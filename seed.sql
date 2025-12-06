@@ -1,0 +1,12 @@
+
+INSERT INTO products (name, category, short_desc, long_desc, price, image_url) VALUES 
+('Quantum Laptop X1', 'Electronics', 'Ultra-fast performance for demanding tasks.', 'Featuring the latest M5 chip, 32GB RAM, and a 1TB NVMe SSD. Perfect for developers and creatives.', 1899.99, 'images/laptop.jpg'),
+('Ergo Mechanical Keyboard', 'Accessories', 'Tactile keys designed for comfortable, long-duration typing.', 'Gateron Brown switches, full RGB lighting, and USB-C detachable cable.', 129.50, 'images/keyboard.jpg'),
+('The Self-Starter Guide', 'Books', 'A foundational book on entrepreneurship and personal development.', 'Learn the principles of business setup, marketing basics, and mindset mastery from industry leaders.', 25.00, 'images/book1.jpg'),
+('Noise-Cancelling Headphones Pro', 'Electronics', 'Immersive audio experience with industry-leading noise cancellation.', 'Up to 30 hours of battery life, custom 40mm drivers, and transparency mode.', 349.00, 'images/headphones.jpg'),
+('Premium Office Chair', 'Furniture', 'Ergonomic mesh design with adjustable lumbar support.', '3D armrests, high-density foam seat, and smooth-rolling casters. Supports up to 300 lbs.', 450.99, 'images/chair.jpg'),
+('1TB Portable SSD', 'Accessories', 'Lightning-fast external storage for backups and large files.', 'USB 3.1 Gen 2 interface, read/write speeds up to 550MB/s, shock-resistant.', 99.99, 'images/ssd.jpg'),
+('Mastering React Hooks', 'Books', 'In-depth guide to using modern React features effectively.', 'Covers useState, useEffect, useContext, custom hooks, and performance optimization techniques.', 55.75, 'images/book2.jpg'),
+('4K Ultra HD Monitor 27"', 'Electronics', 'Stunning visual clarity and color accuracy for professional work.', 'IPS panel, 100% sRGB, multiple inputs (HDMI, DisplayPort), adjustable stand.', 680.00, 'images/monitor.jpg'),
+('Standing Desk Converter', 'Furniture', 'Easily transform any desk into a sit-stand workstation.', 'Gas spring lift mechanism, large surface area, keyboard tray included.', 199.99, 'images/desk_converter.jpg'),
+('Wireless Vertical Mouse', 'Accessories', 'Ergonomic design to reduce wrist strain and improve posture.', 'Adjustable DPI, rechargeable battery, multi-device connectivity.', 49.95, 'images/mouse.jpg');
